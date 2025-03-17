@@ -28,7 +28,7 @@ This web application is in Polish language.
 
 <br>
 
-Screenshots (some photos are on a reduced version of the page to capture more of it):
+Screenshots (some images are on a reduced version of the page to capture more of it):
 
 * Main page (there are 9 cars in total):
 
