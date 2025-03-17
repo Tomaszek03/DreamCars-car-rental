@@ -1,4 +1,4 @@
-# DreamCars-car-rental
+# DreamCars Car Rental
 ### DreamCars - car rental web application
 
 This web application is dedicated to car rental companies.
