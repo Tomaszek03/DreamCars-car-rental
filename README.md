@@ -5,7 +5,7 @@ This web application is dedicated to car rental companies.
 I created this application in order to practice web development and data base menagement.
 
 It includes:
-* login and registration system (with data validation)
+* login and registration system (with data validation, passwords in data base are hashed, login includes protection against SQL injection )
 * administration panel (to check statistics and rental ranking)
 * your own profile statistics (rentals and dates covering them)
 * cancellation option (if the car rental has not started yet)
