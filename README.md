@@ -23,7 +23,7 @@ Used languages:
 * JavaScript
 * SQL
 
-Application saves and reads data from database using SQL querries.
+Application saves and reads data from database using SQL queries.
 This web application is in Polish language.
 
 <br>
