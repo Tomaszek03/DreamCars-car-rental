@@ -24,6 +24,7 @@ Used languages:
 * SQL
 
 Application saves and reads data from database using SQL queries.
+
 This web application is in Polish language.
 
 <br>
