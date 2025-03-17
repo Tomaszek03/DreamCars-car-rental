@@ -1,0 +1,278 @@
+.settings
+{
+    font-size: 20px;
+    border: 2px solid rgb(183, 53, 53);
+    float: right;
+    width: 200px;
+    margin-top: 55px;
+    margin-right: 70px;
+    padding: 5px;
+    -webkit-box-shadow: 3px 3px 30px 5px rgba(255, 40, 40, 0.9);
+	-moz-box-shadow: 3px 3px 30px 5px rgba(255, 40, 40, 0.9);
+	box-shadow: 3px 3px 30px 5px rgba(255, 40, 40, 0.9);
+}
+
+.settings:hover
+{
+    background-color: #a90b0b;
+    cursor: pointer;
+}
+
+.back
+{
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 70px;
+    float: left;
+}
+
+.zmien_haslo
+{
+    clear: both;
+    text-align: center;
+    padding: 5px;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(183, 53, 53);
+    -webkit-box-shadow: 3px 3px 30px 5px rgba(255, 40, 40, 0.9);
+	-moz-box-shadow: 3px 3px 30px 5px rgba(255, 40, 40, 0.9);
+	box-shadow: 3px 3px 30px 5px rgba(255, 40, 40, 0.9);
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.zmien_haslo:hover
+{
+    background-color: #a90b0b;
+    cursor: pointer;
+}
+
+.back:hover
+{
+	color:rgba(255, 40, 40, 0.9);
+}
+
+.icon
+{
+    height: 140px;
+    width: 140px;
+    text-align: left;
+    float: left;
+    font-size: 140px;
+    margin-bottom: 30px;
+}
+
+.im_naz
+{
+    font-size: 50px;
+    height: 50px;
+    padding-top: 45px;
+    padding-bottom:45px;
+    margin-left: 30px;
+    width: 1000px;
+    text-align:left;
+    float: left;
+}
+
+.mail
+{
+    float:left;
+    height: 30px;
+    width: 1000px;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.napis
+{
+    clear:both;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align:left;
+    margin-left: 40px;
+}
+
+.tabela
+{
+    clear:both;
+    float: left;
+    font-size: 20px;
+    text-align: left;
+    margin-top:10px;
+    margin-left: 40px;
+}
+
+.komorka1
+{
+    border: 2px solid white;
+    float:left;
+    padding: 5px;
+    width: 40px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+
+.komorka
+{
+    border: 2px solid white;
+    float:left;
+    padding: 5px;
+    height: 30px;
+    width: 200px;
+    line-height: 30px;
+    text-align: center;
+    
+}
+
+.komorka_name1
+{
+    border: 2px solid white;
+    float:left;
+    padding: 5px;
+    width: 180px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.komorka_name
+{
+    border: 2px solid white;
+    float:left;
+    padding: 5px;
+    width: 230px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.komorka_data
+{
+    border: 2px solid white;
+    float:left;
+    padding: 5px;
+    width: 220px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.nagl
+{
+    background-color: rgba(199, 39, 39, 0.5);
+    width: 1190px;
+}
+
+input[type=submit]
+{
+	width: 200px;
+	background-color: #a90b0b;
+	font-size:20px;
+	color: white;
+	padding: 5px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	outline: none;
+    line-height: 20px;
+}
+
+input[type=submit]:focus
+{
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+}
+
+input[type=submit]:hover
+{
+	background-color: #bd1212;
+}
+
+input::-webkit-input-placeholder
+{
+    color: #999;
+}
+input:focus::-webkit-input-placeholder
+{
+    color: #8c4242;
+}
+/* Firefox < 19 */
+input:-moz-placeholder
+{
+    color: #999;
+}
+input:focus:-moz-placeholder
+{
+    color: #8c4242;
+}
+/* Firefox > 19 */
+input::-moz-placeholder
+{
+    color: #999;
+}
+input:focus::-moz-placeholder
+{
+    color: #8c4242;
+}
+/* Internet Explorer 10 */
+input:-ms-input-placeholder
+{
+    color: #999;
+}
+input:focus:-ms-input-placeholder
+{
+    color: #8c4242;
+}
+
+.stats
+{
+    font-size: 25px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.nagl2
+{
+    background-color: rgba(199, 39, 39, 0.5);
+    width: 1016px;
+}
+
+.tab
+{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.komorka_name2
+{
+    border: 2px solid white;
+    float:left;
+    padding: 5px;
+    width: 180px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+#statystyki
+{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.nagl3
+{
+    background-color: rgba(199, 39, 39, 0.5);
+    width: 824px;
+}
+
+.tab2
+{
+    margin-left: 300px;
+    margin-right: 300px;
+}
